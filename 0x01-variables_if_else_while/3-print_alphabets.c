@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
   * main - entry block
-  * Description: a program that prints the alphabet 
+  * Description: prints the alphabet 
   * Return: 0
 **/
 int main(void)
