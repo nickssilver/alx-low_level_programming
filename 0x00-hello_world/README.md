@@ -39,4 +39,4 @@ gcc 4.8.4
 - 100-intel - a bash script that generates the assembly code (Intel syntax) of a C file, saved in the variable $CFILE. 
    - The output file will be named the same as the C file, but with the extension .s instead of .c.
 
-- 101-quote.c - a C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error without using any functions listed in the NAME section of man (3) printf or man (3) puts.
+- 101-quote.c - a C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error without using any functions listed in the NAME section of man (3) printf or man (3) puts. 
