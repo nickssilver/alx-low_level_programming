@@ -1,20 +1,84 @@
-#include "main.h"
+lude "main.h"
 
 /**
- * main - Entry Block
-  *Description: prints _putchar followed by a new line
- * Return: 0
- */
+ *
+ *  * main - Entry Block
+ *
+ *   * Description: prints _putchar followed by a new line
+ *
+ *    * Return: 0
+ *
+ *     */
+
 int main(void)
+
 {
-	char d[8] = "_putchar";
 
-	int i = 0;
+		char c[8] = "_putchar";
 
-	while (i < 8)
-	{
-		_putchar(d[i]);
-		i++;
-	}
-	_putchar('\n');
-	return (0);
+			int i = 0;
+
+				while (i < 8)
+
+						{
+
+									_putchar(c[i]);
+
+											i++;
+
+												}
+
+					_putchar('\n');
+
+						return (0);#include "main.h"
+
+							/**
+							 *
+							 *  * main - Entry Block
+							 *
+							 *   * Description: prints _putchar followed by a new line
+							 *
+							 *    * Return: 0
+							 *
+							 *     */
+
+							int main(void)
+
+							{
+
+									char c[8] = "_putchar";
+
+										int i = 0;
+
+											while (i < 8)
+
+													{
+
+																_putchar(c[i]);
+
+																		i++;
+
+																			}
+
+												_putchar('\n');
+
+													return (0);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
