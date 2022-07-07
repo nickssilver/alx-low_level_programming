@@ -13,7 +13,7 @@ An introductory project on:
 - How does the main function influence the return value of the program
 
 ## Requirements:
-Ubuntu 14.04 LTS
+Ubuntu 14.04 LTS 
 gcc 4.8.4
 
 ## Tasks:
