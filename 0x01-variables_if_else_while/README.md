@@ -65,6 +65,6 @@ An introductory project on:
 
 - 100-print_comb3.c - prints all possible different combinations of two digits, separated by a comma, using putchar, without using a variable of type char.
 
-- 101-print_comb4.c - prints all possible different combinations of three digits, separated by a comma, using putchar, without using a variable of type char.
+- 101-print_comb4.c - prints all possible different combinations of three digits, separated by a comma, using putchar, without using a variable of type char. 
 
 - 102-print_comb5.c - prints all possible different combinations of two two digit numbers, separated by a comma, using putchar, without using a variable of type char.
