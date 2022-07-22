@@ -1,2 +1,2 @@
-To be done later
+README file for static libraries
 
