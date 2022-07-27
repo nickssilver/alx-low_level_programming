@@ -4,7 +4,10 @@
 ![C pro](https://user-images.githubusercontent.com/91147803/162432166-0f08df51-fadc-4d37-99f8-bc92b797589b.png)
 
 ## Welcome 
-Thank you for visiting my C programming projects learnt during my software engineering program with ALX. 
+Thank you for visiting my **C programming** projects learnt during my software engineering program with ALX. 
+## Introduction
+**C** is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on.
+C programming is an excellent language to learn to program for beginners.
 
 ## Table of Contents
 - About
