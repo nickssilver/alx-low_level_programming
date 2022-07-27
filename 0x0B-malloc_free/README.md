@@ -1,7 +1,7 @@
 # 0x0B. C - malloc, free
 
 ## Learning Objectives
-
+ 
 General
 
 - What is the difference between automatic and dynamic allocation
