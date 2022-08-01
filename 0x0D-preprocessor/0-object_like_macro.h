@@ -3,3 +3,9 @@
 #define SIZE 1024
 
 #endif
+s | set ff=unix | wq!'
+
+
+s | set ff=unix | wq!'
+
+
