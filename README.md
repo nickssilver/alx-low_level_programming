@@ -1,3 +1,5 @@
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+
 # C Low level programming & algorithms
 
 
@@ -37,6 +39,11 @@ This repository contains projects on the C programming language. The projects co
 - Ubuntu 14.04 LTS
 - gcc 4.8.4 (-Wall, -Werror, -Wextra, and -pedantic flags)
 
+## Compilation Process
+<p align="center">
+  <img src="https://i.postimg.cc/rprHShJ1/C-compilation-process.gif" />
+</p>
+
 ## Projects
 - <a href="0x00-hello_world/">0x00-hello_world</a>
 - <a href="0x01-variables_if_else_while">0x01-variables_if_else_while</a>
@@ -53,4 +60,8 @@ This repository contains projects on the C programming language. The projects co
 - <a href="0x0B-malloc_free">0x0B-malloc_free</a>
 - <a href="0x0C-more_malloc_free">0x0C-more_malloc_free</a>
  
+# More Resources
 
+- [Pointers and Arrays](./PointerArrays) : Code snippets and notes on Pointers and Arrays from Concept Page.
+- [Data Structures](./DataStructures) : Code snippets and notes on data structures.
+- [Dynamic Memory Allocation](./dynamic_memory_alloc) : Code snippets and notes on how dynamic memory allocation works with `malloc` and `free`.
