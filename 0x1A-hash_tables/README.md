@@ -1,5 +1,5 @@
 # 0x1A-hash_tables
-<hr>
+
 ## Resources
 Read or watch:
 
