@@ -6,7 +6,7 @@ For this project, we expect you to look at this concept:
 ## Resources
 Read or watch:
 
-- What Is A “C” Library? What Is It Good For?
+- [https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html](What Is A “C” Library? What Is It Good For?)
 - Creating A Static “C” Library Using “ar” and “ranlib”
 - Using A “C” Library In A Program
 - What is difference between Dynamic and Static library(Static and Dynamic linking) (stop at 4:44)
