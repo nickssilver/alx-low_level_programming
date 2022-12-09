@@ -79,3 +79,12 @@ This repository contains projects on the C programming language. The projects co
 - [Pointers and Arrays](./PointerArrays) : Code snippets and notes on Pointers and Arrays from Concept Page.
 - [Data Structures](./DataStructures) : Code snippets and notes on data structures.
 - [Dynamic Memory Allocation](./dynamic_memory_alloc) : Code snippets and notes on how dynamic memory allocation works with `malloc` and `free`.
+
+
+
+
+### support:tada:
+If you like how i present and document my work  do me a favor of giving a **Star** :sparkles: to my repos  |&&| a **Follow**  :busts_in_silhouette:
+
+## Author
+- **Nick Gitobu** - [silvernicks9@gmail.com](https://github.com/nickssilver) ~ [@pronic_tech](https://twitter.com/pronic_tech):
